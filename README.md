@@ -1,6 +1,6 @@
 EXAMEN SQL 2
 
-![](Captura desde 2024-07-31 11-30-23.png)
+![](tabla.png)
 
 **CONSULTAS BASICAS**
 
